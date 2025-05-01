@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-g2@6@im&=x_yx=cae7p_-2p0-fvp#l1@gi_9!-bc%h!hikwbm5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['grocery-price-finder-36mj.onrender.com']
 
 
 # Application definition
